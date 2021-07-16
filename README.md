@@ -61,7 +61,7 @@ Dolibarr ERP & CRM is a modern software package to manage your organization's ac
 
 ## How to run this image
 
-This image is based on the [officiel PHP repository](https://registry.hub.docker.com/_/php/).
+This image is based on the [official PHP repository](https://registry.hub.docker.com/_/php/).
 It is inspired from [nextcloud](https://github.com/nextcloud/docker) and [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr).
 
 This image does not contain the database for Dolibarr. You need to use either an existing database or a database container.
